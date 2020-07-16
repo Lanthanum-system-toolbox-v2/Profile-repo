@@ -145,62 +145,6 @@ link=https://raw.githubusercontent.com/yc9559/cpufreq-interactive-opt/master/vto
 !profile
 
 !profile
-title=【橘猫调度】骁龙820
-subtitle=适用于骁龙820的橘猫调度
-author=橘猫520@coolapk&cjybyjk@github
-name=pc_sd820
-link=https://raw.githubusercontent.com/cjybyjk/powercfg_generator/master/projects/PixelCat/platforms/sd_820/powercfg
-!profile
-
-!profile
-title=【橘猫调度】骁龙821
-subtitle=适用于骁龙821的橘猫调度
-author=橘猫520@coolapk&cjybyjk@github
-name=pc_sd821
-link=https://raw.githubusercontent.com/cjybyjk/powercfg_generator/master/projects/PixelCat/platforms/sd_821/powercfg
-!profile
-
-!profile
-title=【橘猫调度】骁龙835
-subtitle=适用于骁龙835的橘猫调度
-author=橘猫520@coolapk&cjybyjk@github
-name=pc_sd835
-link=https://raw.githubusercontent.com/cjybyjk/powercfg_generator/master/projects/PixelCat/platforms/sd_835/powercfg
-!profile
-
-!profile
-title=【橘猫调度】骁龙636
-subtitle=适用于骁龙636的橘猫调度
-author=橘猫520@coolapk&cjybyjk@github
-name=pc_sd636
-link=https://raw.githubusercontent.com/cjybyjk/powercfg_generator/master/projects/PixelCat/platforms/sd_636/powercfg
-!profile
-
-!profile
-title=【橘猫调度】骁龙660
-subtitle=适用于骁龙660的橘猫调度
-author=橘猫520@coolapk&cjybyjk@github
-name=pc_sd660
-link=https://raw.githubusercontent.com/cjybyjk/powercfg_generator/master/projects/PixelCat/platforms/sd_660/powercfg
-!profile
-
-!profile
-title=【橘猫调度】Exynos 8895
-subtitle=适用于Exynos 8895的橘猫调度
-author=橘猫520@coolapk&cjybyjk@github
-name=pc_exynos_8895
-link=https://raw.githubusercontent.com/cjybyjk/powercfg_generator/master/projects/PixelCat/platforms/exynos_8895/powercfg
-!profile
-
-!profile
-title=【橘猫调度】Exynos 9810
-subtitle=适用于Exynos 9810的橘猫调度
-author=橘猫520@coolapk&cjybyjk@github
-name=pc_exynos_9810
-link=https://raw.githubusercontent.com/cjybyjk/powercfg_generator/master/projects/PixelCat/platforms/exynos_9810/powercfg
-!profile
-
-!profile
 title=【骁龙820】Ghostpepper调度
 subtitle=一款优秀的平衡偏性能调度 在电池不尿崩的前提下带来流畅体验 
 author=Asiier@xda-developers
